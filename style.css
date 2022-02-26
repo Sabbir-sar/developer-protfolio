@@ -28,11 +28,6 @@ section{
 #highlight{
     color:rgb(241, 120, 7);
 }
-
-.miss{
-    width: 100%;
-    display: flex;
-}
 .mission{
     width: 30%;
     text-align: justify;
@@ -71,14 +66,9 @@ section{
     background-color: rgb(239, 248, 248);
     margin: 5%;
 }
-.image-1 img{
+.image img{
     width: 25%;
     background-color: aqua;
-    border-radius: 5px;
-}
-.image-2 img{
-    width: 25%;
-    background-color: aquamarine;
     border-radius: 5px;
 }
 .last-part{
